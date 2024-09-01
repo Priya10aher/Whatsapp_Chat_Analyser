@@ -1,8 +1,8 @@
 # WhatsApp Chat Analyzer
 
+![GitHub last commit](https://img.shields.io/github/last-commit/Priya10aher/WhatsApp_Chat_Analyser)
 ![GitHub](https:![2024-08-30 (1)](https://github.com/user-attachments/assets/00a47f62-b2b1-4d2b-a704-b50b741780f9)
 //img.shields.io/github/license/Priya10aher/WhatsApp_Chat_Analyser)
-![GitHub last commit](https://img.shields.io/github/last-commit/Priya10aher/WhatsApp_Chat_Analyser)
 
 ![WhatsApp Chat Analyser](./demo.png)
 
